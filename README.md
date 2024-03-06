@@ -21,7 +21,7 @@ You just need to clone this repo and run docker compose up -d to get everything.
 Make sure your docker engine is running
 - Clone project to local
   
-  git clone https://github.com/marselhr/laravel-with-docker.git laravel/app
+  git clone https://github.com/007xBramasta/laravel-docker-nginx.git
   
 - Navigate project folder
   
